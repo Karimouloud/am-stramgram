@@ -1,0 +1,102 @@
+[
+  {
+    "id": "m01",
+    "username": "Kyler_Spinka", 
+    "avatar": "./images/men/01.JPG"
+  },
+  {
+    "id": "w01", 
+    "username": "Jacqueline_", 
+    "avatar": "./images/women/01.JPG"
+  },
+  {
+    "id": "m02",
+    "username": "_", 
+    "avatar": "./images/men/02.JPG"
+  },
+  {
+    "id": "w02",
+    "username": "_", 
+    "avatar": "./images/women/02.JPG"
+  },
+  {
+    "id": "m03",
+    "username": "_", 
+    "avatar": "./images/men/03.JPG"
+  },
+  {
+    "id": "w03",
+    "username": "_", 
+    "avatar": "./images/women/03.JPG"
+  },
+  {
+    "id": "m04",
+    "username": "_", 
+    "avatar": "./images/men/04.JPG"
+  },
+  {
+    "id": "w04",
+    "username": "_", 
+    "avatar": "./images/women/04.JPG"
+  },
+  {
+    "id": "m05",
+    "username": "_", 
+    "avatar": "./images/men/05.JPG"
+  },
+  {
+    "id": "w05",
+    "username": "_", 
+    "avatar": "./images/women/05.JPG"
+  },
+  {
+    "id": "m06",
+    "username": "_", 
+    "avatar": "./images/men/06.JPG"
+  },
+  {
+    "id": "w06",
+    "username": "_", 
+    "avatar": "./images/women/06.JPG"
+  },
+  {
+    "id": "m07",
+    "username": "_", 
+    "avatar": "./images/men/07.JPG"
+  },
+  {
+    "id": "w07",
+    "username": "_", 
+    "avatar": "./images/women/07.JPG"
+  },
+  {
+    "id": "m08",
+    "username": "_", 
+    "avatar": "./images/men/08.JPG"
+  },
+  {
+    "id": "w08",
+    "username": "_", 
+    "avatar": "./images/women/08.JPG"
+  },
+  {
+    "id": "m09",
+    "username": "_", 
+    "avatar": "./images/men/09.JPG"
+  },
+  {
+    "id": "w09",
+    "username": "_", 
+    "avatar": "./images/women/09.JPG"
+  },
+  {
+    "id": "m10",
+    "username": "_", 
+    "avatar": "./images/men/10.JPG"
+  },
+  {
+    "id": "w10",
+    "username": "_", 
+    "avatar": "./images/women/10.JPG"
+  }
+]
